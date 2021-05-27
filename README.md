@@ -74,26 +74,6 @@ npm run prod
 
 ---
 
-## Admin Portal
-
-<img src="img/aaa.png">
-
----
-
-<img src="img/bbb.png">
-
----
-
-<img src="img/ccc.png">
-
----
-
-<img src="img/ddd.png">
-
----
-
-<img src="img/eee.png">
-
 ---
 
 ## Main Technologies
