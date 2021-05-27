@@ -1,0 +1,70 @@
+
+/*=============================================
+=            Button            =
+=============================================*/
+
+.ht-btn{
+
+    &--default{
+        display: inline-block;
+        font-size: 14px;
+        line-height: 2;
+        padding: 10px 40px;
+        font-weight: 400;
+        text-transform: uppercase;
+        color: $white;
+        background-color: #5C2391;
+        transition: $transition--cubic;
+
+        &:hover, &:focus{
+            background-color: #5C2391;
+            color: $white;
+
+        }
+
+        &--dark-hover{
+            &:hover, &:focus{
+                background-color: #5C2391;
+                color: $white;
+    
+            }
+        }
+    }
+
+    &--round{
+        font-size: 13px;
+        padding: 15px 50px;
+        background-color: #5C2391;
+        color: $white;
+        border-radius: 100px;
+        transition: $transition--cubic;
+        &:hover, &:focus{
+            background-color: #5C2391;
+            color: $white;
+        }
+    }
+}
+
+.see-more-link{
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 1;
+    background-color: #5C2391;
+    transition: $transition--cubic;
+    text-decoration: underline;
+    background: none;
+    border: none;
+    &:hover{
+        background-color: #5C2391;
+        text-decoration: underline;
+    }
+
+    &--color{
+        background-color: #5C2391;
+        &:hover{
+            background-color: #5C2391;
+        }
+    }
+}
+
+/*=====  End of Button  ======*/
