@@ -9,11 +9,11 @@ It is a E-Learning website which provides functionality of registering in any co
 
 ```bash
 # clone repository
-https://github.com/savajapurva/E-Learning-MERN.git
+https://github.com/phyleria/ICJLearn_Online_Project.git
 
 # Install dependencies
-cd E-Learning-MERN && npm install
-cd E-Learning-MERN && cd client && npm install
+cd ICJLearn_Online_Project && npm install
+cd ICJLearn_Online_Project && cd client && npm install
 
 ```
 Create account in Mongo Atlas and create cluster. Get your MongoURI by following the instructions and add it in keys.js file which is inside the config folder. 
