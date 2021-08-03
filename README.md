@@ -9,7 +9,7 @@ It is a E-Learning website which provides functionality of registering in any co
 
 ```bash
 # clone repository
-https://github.com/phyleria/ICJLearn_Online_Project.git
+https://github.com/MicrosoftStudentAmbassadors-Kenya/ICJLearn_Online_Project.git
 
 # Install dependencies
 cd ICJLearn_Online_Project && npm install
