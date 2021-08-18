@@ -1,4 +1,10 @@
-# E-Learning-MERN
+# E-Learning - Microsoft Imagine Cup Junior Online Learning Platform
+As an initiative of the Microsoft Imagine Cup Community, Kenya, the E-Learning platform helps to facilitate learning among high school student in preparation of Imagine Cup Junior. Major content to be shared on the platform include introduction to technology, Microsoft, and Imagine Cup.
+
+Resources: Instructors (To run officer hours), Developers to build and manage the system and content creators for the different technologies (Microsoft Learn Student Ambassadors volunteers)
+
+Learn more: https://sway.office.com/GuDPF9mvu1ZGCd6C?ref=Link&loc=play
+
 It is a E-Learning website which provides functionality of registering in any course and watch its related videos and many other features such as Admin Panel, Instructors related functions etc. 
 
 <img src="img/KnowHow - E-Learning Portal.png">
@@ -9,7 +15,7 @@ It is a E-Learning website which provides functionality of registering in any co
 
 ```bash
 # clone repository
-https://github.com/savajapurva/E-Learning-MERN.git
+https://github.com/MicrosoftStudentAmbassadors-Kenya/ICJLearn_Online_Project
 
 # Install dependencies
 cd E-Learning-MERN && npm install

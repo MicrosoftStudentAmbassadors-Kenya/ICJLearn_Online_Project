@@ -1,5 +1,6 @@
 import React, { Component } from "react";
-import PropTypes from "prop-types";
+import PropTypes from "prop-types"; //in-built typechecking in React only used in development
+
 import { Link } from "react-router-dom";
 import { connect } from "react-redux";
 import { logoutUser } from "../actions/authActions";

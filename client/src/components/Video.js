@@ -13,6 +13,7 @@ class Video extends Component {
   openModal() {
     this.setState({ isOpen: true });
   }
+  
   render() {
     return (
       <div>
