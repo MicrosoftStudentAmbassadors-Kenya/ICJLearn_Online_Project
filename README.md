@@ -1,7 +1,10 @@
 # E-Learning - Microsoft Imagine Cup Junior Online Learning Platform
-As an initiative of the Microsoft Imagine Cup Community, Kenya, the E-Learning platform helps to facilitate learning among high school student in preparation of Imagine Cup Junior. Major content to be shared on the platform include introduction to technology, Microsoft, and Imagine Cup.
+The Microsoft Imagine Cup Community Kenya seeks to make an impact through coding, collaboration, and competition. Innovate with passion to tackle global issues and bring your tech solution to life in the Imagine Cup.
 
-Resources: Instructors (To run officer hours), Developers to build and manage the system and content creators for the different technologies (Microsoft Learn Student Ambassadors volunteers)
+As an initiative of the Microsoft Imagine Cup Community, Kenya, this Online E-Learning platform helps to facilitate learning among high school students in preparation of Imagine Cup Junior. Primary content to be shared on the platform includes Introduction to Technology, Microsoft, and Imagine Cup.
+
+Resources: 
+Instructors (To run office hours), Developers to build and manage the system and content creators for the different technologies (Microsoft Learn Student Ambassadors volunteers)
 
 Learn more: https://sway.office.com/GuDPF9mvu1ZGCd6C?ref=Link&loc=play
 
@@ -15,11 +18,13 @@ It is a E-Learning website which provides functionality of registering in any co
 
 ```bash
 # clone repository
+<<<<<<< HEAD
 https://github.com/MicrosoftStudentAmbassadors-Kenya/ICJLearn_Online_Project
+=======
 
 # Install dependencies
-cd E-Learning-MERN && npm install
-cd E-Learning-MERN && cd client && npm install
+cd ICJLearn_Online_Project && npm install
+cd ICJLearn_Online_Project && cd client && npm install
 
 ```
 Create account in Mongo Atlas and create cluster. Get your MongoURI by following the instructions and add it in keys.js file which is inside the config folder. 
