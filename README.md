@@ -3,12 +3,16 @@ The Microsoft Imagine Cup Community Kenya seeks to make an impact through coding
 
 As an initiative of the Microsoft Imagine Cup Community, Kenya, this Online E-Learning platform helps to facilitate learning among high school students in preparation of Imagine Cup Junior. Primary content to be shared on the platform includes Introduction to Technology, Microsoft, and Imagine Cup.
 
+Key Functionalities:
+Learners can request office hours and signed up ambassadors can take up requests.
+Instructors can post resources and content
+
 Resources: 
-Instructors (To run office hours), Developers to build and manage the system and content creators for the different technologies (Microsoft Learn Student Ambassadors volunteers)
+Instructors (Student Ambassadors) 
+Students
 
 Learn more: https://sway.office.com/GuDPF9mvu1ZGCd6C?ref=Link&loc=play
 
-It is a E-Learning website which provides functionality of registering in any course and watch its related videos and many other features such as Admin Panel, Instructors related functions etc. 
 
 <img src="img/KnowHow - E-Learning Portal.png">
 
